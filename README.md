@@ -32,4 +32,4 @@
 
 9.Api
    -https://platerecognizer.com/
-   -https://platerecognizer.com/pricing/
+
